@@ -37,7 +37,7 @@ This list contains 270 awesome open-source projects grouped into 17 categories. 
 - [🔍 Search & tables of content](#-search--tables-of-content) _5 projects_
 - [🍱 Site conversion (PDF/ePUB/etc.)](#-site-conversion-pdfepubetc) _11 projects_
 - [🔧 Site building, site management](#-site-building-site-management) _21 projects_
-- [📁 Snippets & includes (reusing contents)](#-snippets--includes-reusing-contents) _9 projects_
+- [📁 Snippets & includes (reusing contents)](#-snippets--includes-reusing-contents) _10 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -3676,7 +3676,19 @@ This list contains 270 awesome open-source projects grouped into 17 categories. 
      - gitsnippet
    ```
 </details>
+<details><summary><b><a href="https://github.com/BetonQuest/mkdocs-snippets">mkdocs-snippets</a></b>  - 🥉0 ·  ⭐ 0 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/32/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin with customizable snippet syntax, handy snippet organisation in folders, recursive snippets and link conversion.</summary>
 
+- [GitHub](https://github.com/BetonQuest/mkdocs-snippets) (👨‍💻 1 · 🔀 0 · 📦 0 · ⏱️ 17.02.2023)
+- [PyPi](https://pypi.org/project/mkdocs-snippets/) (📥 1334 / month):
+	```
+	pip install mkdocs-snippets
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - snippets
+   ```
+</details>
 ---
 
 ## Related Resources
